@@ -4,7 +4,8 @@ import java.util.HashMap;
 
 public class VarSample {
 
-	HashMap<String, Integer> map = new HashMap<String, Integer>();
+	// HashMap<String, Integer> map = new HashMap<String, Integer>();
+	var map = new HashMap<String, Integer>();
 
-	var mapping = new HashMap<String, Integer>();
+	var age = 22;
 }
